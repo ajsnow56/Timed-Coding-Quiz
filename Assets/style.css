@@ -1,0 +1,9 @@
+
+.timer {
+    position: fixed;
+    top: 20px;
+    right: 80px;
+}
+#submit {
+    position: relative;
+}
